@@ -4,12 +4,13 @@ A lightweight, CSS-only animation that arranges web technology icons around a po
 
 ## Preview
 
-Open `index.html` in a modern browser to see the animation. The images are included in the repository, so the project works without an internet connection. No build step, JavaScript, or package installation is required.
+![Screenshot of the circular orbit animation](screenshots/preview.png)
+
+The technology icons orbit the portrait on animated rings. Hover over the animation to pause the rotation.
 
 ## Run locally
 
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
+Open `index.html` in a modern browser. No build step, JavaScript, or package installation is required. The images are included in the repository, so the project also works without an internet connection.
 
 ## Built with
 
@@ -23,6 +24,7 @@ Open `index.html` in a modern browser to see the animation. The images are inclu
 | `index.html` | Animation markup and image elements |
 | `main.css` | Layout, orbit styling, and rotation animation |
 | `imgs/` | Local portrait and technology icon images |
+| `screenshots/preview.png` | Screenshot shown above |
 
 ## Customize
 
