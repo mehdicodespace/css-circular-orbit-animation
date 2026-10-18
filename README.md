@@ -4,7 +4,7 @@ A lightweight, CSS-only animation that arranges web technology icons around a po
 
 ## Preview
 
-![Screenshot of the circular orbit animation](screenshots/preview.png)
+![Screenshot of the circular orbit animation](imgs/preview.png)
 
 The technology icons orbit the portrait on animated rings. Hover over the animation to pause the rotation.
 
@@ -24,7 +24,7 @@ Open `index.html` in a modern browser. No build step, JavaScript, or package ins
 | `index.html` | Animation markup and image elements |
 | `main.css` | Layout, orbit styling, and rotation animation |
 | `imgs/` | Local portrait and technology icon images |
-| `screenshots/preview.png` | Screenshot shown above |
+| `imgs/preview.png` | Screenshot shown above |
 
 ## Customize
 
